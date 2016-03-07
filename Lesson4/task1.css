@@ -1,0 +1,42 @@
+nav {
+    background-color: #bc3dff;
+    height: 50px;
+
+
+
+}
+
+.menu2 a:nth-child(-n+7) {
+    box-sizing: border-box;
+    float: left;
+    font-family: Economica;
+    text-decoration: none;
+    color: white;
+    margin-left: 40px;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px 5px 15px 5px;
+}
+
+a:nth-child(8) {
+    box-sizing: border-box;
+    float: right;
+    font-family: Economica;
+    text-decoration: none;
+    color: white;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px;
+}
+
+a:link:hover {
+    background-color: #cccccc;
+}
+
+.menu2 {
+    width: 900px;
+}
